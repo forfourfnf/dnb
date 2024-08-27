@@ -1,0 +1,29 @@
+{
+	"storyName": "Dave's fun rapping battle!",
+	"hideFreeplay": false,
+	"weekBackground": "dave",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Hellbreaker",
+			"dave",
+			[
+				64,
+				89,
+				235
+			]
+		],
+	"weekName": "Custom Week"
+}
